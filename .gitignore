@@ -1,0 +1,11 @@
+.python-version
+notes.txt
+archive/
+deploy.sh
+update.sh
+*.config.js
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
